@@ -1,4 +1,4 @@
-# Hola, soy Paula 👋
+# Hola, soy Paula Suárez👋
 
 Desarrolladora web en formación. Me gusta crear soluciones claras, bien estructuradas y fáciles de mantener.  
 Actualmente profundizando en backend con Java y frontend moderno.
