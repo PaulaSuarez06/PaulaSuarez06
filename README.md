@@ -41,4 +41,4 @@ Actualmente profundizando en backend con Java y frontend moderno.
 
 ## 📫 Contacto
 - Email: paulaelqh@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/paula-suarez-649330187/
+- LinkedIn: https://www.linkedin.com/in/paulasuarezcavallo
