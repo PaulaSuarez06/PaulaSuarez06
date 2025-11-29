@@ -1,11 +1,13 @@
 # Hola, soy Paula Suárez👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-En%20aprendizaje-informational?style=flat&logo=java&logoColor=white&color=E76F00" />
-  <img src="https://img.shields.io/badge/React-Aprendiendo-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-Aprendiendo-informational?style=flat&logo=angular&logoColor=white&color=DD0031" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-Nivel%20Intermedio-informational?style=flat&logo=springboot&logoColor=white&color=6DB33F" />
-  <img src="https://img.shields.io/badge/MySQL-Manejándolo-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
 Desarrolladora web en formación. Me gusta crear soluciones claras, bien estructuradas y fáciles de mantener.  
