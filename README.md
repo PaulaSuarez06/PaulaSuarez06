@@ -1,4 +1,4 @@
-# Hola, soy Paula Suárez👋
+# Hola, soy Paula Suárez :relaxed:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
