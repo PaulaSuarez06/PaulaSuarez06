@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031" />
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+
+  
 </p>
 
 Desarrolladora web en formación. Me gusta crear soluciones claras, bien estructuradas y fáciles de mantener.  
