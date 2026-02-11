@@ -32,11 +32,6 @@ Me gusta construir aplicaciones claras, bien estructuradas y fáciles de mantene
 - Construyendo proyectos full-stack con API REST.
 - Mejorando arquitectura, buenas prácticas y estructura de código.
 
----
-
-## 🎯 Objetivo
-
-Convertirme en desarrolladora full-stack sólida, con un portfolio profesional claro y bien estructurado.
 
 ---
 
