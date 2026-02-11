@@ -1,6 +1,13 @@
-# Hola, soy Paula :relaxed:
+# Hola, soy Paula 👋  
 
-## 🚀 FrontEnd
+Desarrolladora web en formación.  
+Me gusta construir aplicaciones claras, bien estructuradas y fáciles de mantener.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -9,7 +16,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 </p>
 
-## ⚙️ BackEnd
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
@@ -17,36 +24,23 @@
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
+---
 
-Desarrolladora web en formación. Me gusta crear soluciones claras, bien estructuradas y fáciles de mantener.  
-Actualmente profundizando en backend con Java y frontend moderno.
+## 🚀 Actualmente
+
+- Profundizando en desarrollo backend con Java y Spring.
+- Construyendo proyectos full-stack con API REST.
+- Mejorando arquitectura, buenas prácticas y estructura de código.
 
 ---
 
-## ⚙️ Tecnologías que manejo o estoy aprendiendo
+## 🎯 Objetivo
 
-### Backend
-- **Jakarta EE**
-- **Spring Boot**
-
-### Frontend
-- **React**
-- **Angular**
-
----
-
-## 🌱 En lo que estoy trabajando ahora mismo
-- Mejora continua en Java y desarrollo full-stack.
-- Construcción de proyectos prácticos para reforzar arquitectura, API REST y buenas prácticas.
-
----
-
-## 📌 Objetivos
-- Dominar herramientas modernas tanto en backend como en frontend.
-- Consolidar un portfolio profesional y claro.
+Convertirme en desarrolladora full-stack sólida, con un portfolio profesional claro y bien estructurado.
 
 ---
 
 ## 📫 Contacto
-- Email: paulaelqh@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/paulasuarezcavallo
+
+- 📧 paulaelqh@gmail.com  
+- 💼 https://www.linkedin.com/in/paulasuarezcavallo
