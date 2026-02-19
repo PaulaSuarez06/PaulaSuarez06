@@ -28,14 +28,6 @@ Me gusta construir aplicaciones claras, bien estructuradas y fáciles de mantene
 
 ---
 
-## 🚀 Actualmente
-
-- Profundizando en desarrollo backend con Java y Spring.
-- Construyendo proyectos full-stack con API REST.
-- Mejorando arquitectura, buenas prácticas y estructura de código.
-
-
----
 
 ## 📫 Contacto
 
