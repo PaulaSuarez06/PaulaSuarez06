@@ -1,6 +1,6 @@
 # Hola, soy Paula 👋  
 
-Desarrolladora web en formación.  
+Desarrolladora web full stack  
 Me gusta construir aplicaciones claras, bien estructuradas y fáciles de mantener.
 
 ---
